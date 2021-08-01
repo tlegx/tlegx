@@ -14,6 +14,7 @@
 
 ## Favourite projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tlegx&repo=hangman_terminal&theme=nord&show_owner=true)](https://github.com/tlegx/hangman_terminal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tlegx&repo=alt_case_bot_twittert&theme=nord&show_owner=true)](https://github.com/tlegx/alt_case_bot_twitter)
 
 ## Contact me
 ---------WIP---------
