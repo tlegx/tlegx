@@ -6,6 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tlegx&repo=alt_case_bot_twitter&theme=nord&show_owner=true)](https://github.com/tlegx/alt_case_bot_twitter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tlegx&repo=hangman_terminal&theme=nord&show_owner=true)](https://github.com/tlegx/hangman_terminal)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tlegx&repo=3xplus1&theme=nord&show_owner=true)](https://github.com/tlegx/3xplus1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tlegx&repo=calculator&theme=nord&show_owner=true)](https://github.com/tlegx/calculator)
 
 ## Contact me
 <a href="https://twitter.com/tlegx_"> ![Twitter Follow](https://img.shields.io/twitter/follow/tlegx_?style=social)</a></br>
